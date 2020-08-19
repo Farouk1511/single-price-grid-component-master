@@ -73,7 +73,9 @@ body {
   background-color: hsl(71, 73%, 54%);
   border: none;
   box-shadow: 3px 3px rgba(0, 0, 0, 0.26);
+  color: hsl(204, 43%, 93%);
   margin-bottom: 30px;
+  font-weight: 700;
 }
 
 button:focus {
